@@ -31,7 +31,7 @@ async def help(event):
         Button.url('Developer', 't.me/suheroku'),
       ],
       [
-        Button.url('Support', 't.me/Darensupport'),
+        Button.url('Support', 't.me/asecfamsd'),
         Button.url('Channel', 't.me/cehadaren'),
       ],
     )
