@@ -28,7 +28,7 @@ async def help(event):
     link_preview=False,
     buttons=(
       [
-        Button.url('Developer', 't.me/suheroku'),
+        Button.url('Developer', 't.me/Wajendraae'),
       ],
       [
         Button.url('Support', 't.me/asecfamsd'),
