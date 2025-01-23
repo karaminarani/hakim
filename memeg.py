@@ -32,7 +32,7 @@ async def help(event):
       ],
       [
         Button.url('Support', 't.me/hellarioshome'),
-        Button.url('Channel', 't.me/anakundua'),
+        Button.url('Channel', 't.me/rsvshop'),
       ],
     )
   )
