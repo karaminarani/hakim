@@ -31,7 +31,7 @@ async def help(event):
         Button.url('Developer', 't.me/Tolsmikah'),
       ],
       [
-        Button.url('Support', 't.me/HAKIM_SPORTV2'),
+        Button.url('Support', 't.me/BLACKLISTSITUSBODONG'),
         Button.url('Channel', 't.me/HAKIMGRUP_OFFICIAL'),
       ],
     )
