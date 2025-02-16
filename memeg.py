@@ -22,17 +22,17 @@ spam_chats = []
 
 @kntl.on(events.NewMessage(pattern="^/start$"))
 async def help(event):
-  helptext = "**Halo 👋🏻!\n\nKenalin Nih, Gua Bot Tag All Yang Di Rancang Sama @dreamtoorich Dengan Berbasis Python.\n\nGua Siap Membantu Lu Dengan Mention Semua Anggota Di Group Lu Dengan Cara /all & /cancel**"
+  helptext = "**Halo 👋🏻!\n\nKenalin Nih, Gua Bot Tag All Yang Di Rancang Sama @Tolsmikah Dengan Berbasis Python.\n\nGua Siap Membantu Lu Dengan Mention Semua Anggota Di Group Lu Dengan Cara /all & /cancel**"
   await event.reply(
     helptext,
     link_preview=False,
     buttons=(
       [
-        Button.url('Developer', 't.me/dreamtoorich'),
+        Button.url('Developer', 't.me/Tolsmikah'),
       ],
       [
-        Button.url('Support', 't.me/testirsvshop'),
-        Button.url('Channel', 't.me/rsvshop'),
+        Button.url('Support', 't.me/HAKIM_SPORTV2'),
+        Button.url('Channel', 't.me/HAKIMGRUP_OFFICIAL'),
       ],
     )
   )
